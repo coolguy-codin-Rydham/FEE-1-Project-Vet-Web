@@ -1387,9 +1387,9 @@ a {
 .coverer {
   box-shadow: 10px 10px 10px #ac8400;
 }
-.imageCard > img:hover {
+/* .imageCard > img:hover {
   box-shadow: 20px 20px 30px #e9e8e8;
-}
+} */
 .part7 {
   background-image: url(./Bgc-Ohbfj49-.svg);
 }
