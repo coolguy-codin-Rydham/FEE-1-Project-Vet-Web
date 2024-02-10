@@ -9,7 +9,7 @@
 }
 :before,
 :after {
-  --tw-content: "";
+  --content: "";
 }
 html,
 :host {
@@ -213,102 +213,102 @@ video {
 *,
 :before,
 :after {
-  --tw-border-spacing-x: 0;
-  --tw-border-spacing-y: 0;
-  --tw-translate-x: 0;
-  --tw-translate-y: 0;
-  --tw-rotate: 0;
-  --tw-skew-x: 0;
-  --tw-skew-y: 0;
-  --tw-scale-x: 1;
-  --tw-scale-y: 1;
-  --tw-pan-x: ;
-  --tw-pan-y: ;
-  --tw-pinch-zoom: ;
-  --tw-scroll-snap-strictness: proximity;
-  --tw-gradient-from-position: ;
-  --tw-gradient-via-position: ;
-  --tw-gradient-to-position: ;
-  --tw-ordinal: ;
-  --tw-slashed-zero: ;
-  --tw-numeric-figure: ;
-  --tw-numeric-spacing: ;
-  --tw-numeric-fraction: ;
-  --tw-ring-inset: ;
-  --tw-ring-offset-width: 0px;
-  --tw-ring-offset-color: #fff;
-  --tw-ring-color: rgb(59 130 246 / 0.5);
-  --tw-ring-offset-shadow: 0 0 #0000;
-  --tw-ring-shadow: 0 0 #0000;
-  --tw-shadow: 0 0 #0000;
-  --tw-shadow-colored: 0 0 #0000;
-  --tw-blur: ;
-  --tw-brightness: ;
-  --tw-contrast: ;
-  --tw-grayscale: ;
-  --tw-hue-rotate: ;
-  --tw-invert: ;
-  --tw-saturate: ;
-  --tw-sepia: ;
-  --tw-drop-shadow: ;
-  --tw-backdrop-blur: ;
-  --tw-backdrop-brightness: ;
-  --tw-backdrop-contrast: ;
-  --tw-backdrop-grayscale: ;
-  --tw-backdrop-hue-rotate: ;
-  --tw-backdrop-invert: ;
-  --tw-backdrop-opacity: ;
-  --tw-backdrop-saturate: ;
-  --tw-backdrop-sepia: ;
+  --border-spacing-x: 0;
+  --border-spacing-y: 0;
+  --translate-x: 0;
+  --translate-y: 0;
+  --rotate: 0;
+  --skew-x: 0;
+  --skew-y: 0;
+  --scale-x: 1;
+  --scale-y: 1;
+  --pan-x: ;
+  --pan-y: ;
+  --pinch-zoom: ;
+  --scroll-snap-strictness: proximity;
+  --gradient-from-position: ;
+  --gradient-via-position: ;
+  --gradient-to-position: ;
+  --ordinal: ;
+  --slashed-zero: ;
+  --numeric-figure: ;
+  --numeric-spacing: ;
+  --numeric-fraction: ;
+  --ring-inset: ;
+  --ring-offset-width: 0px;
+  --ring-offset-color: #fff;
+  --ring-color: rgb(59 130 246 / 0.5);
+  --ring-offset-shadow: 0 0 #0000;
+  --ring-shadow: 0 0 #0000;
+  --shadow: 0 0 #0000;
+  --shadow-colored: 0 0 #0000;
+  --blur: ;
+  --brightness: ;
+  --contrast: ;
+  --grayscale: ;
+  --hue-rotate: ;
+  --invert: ;
+  --saturate: ;
+  --sepia: ;
+  --drop-shadow: ;
+  --backdrop-blur: ;
+  --backdrop-brightness: ;
+  --backdrop-contrast: ;
+  --backdrop-grayscale: ;
+  --backdrop-hue-rotate: ;
+  --backdrop-invert: ;
+  --backdrop-opacity: ;
+  --backdrop-saturate: ;
+  --backdrop-sepia: ;
 }
 ::backdrop {
-  --tw-border-spacing-x: 0;
-  --tw-border-spacing-y: 0;
-  --tw-translate-x: 0;
-  --tw-translate-y: 0;
-  --tw-rotate: 0;
-  --tw-skew-x: 0;
-  --tw-skew-y: 0;
-  --tw-scale-x: 1;
-  --tw-scale-y: 1;
-  --tw-pan-x: ;
-  --tw-pan-y: ;
-  --tw-pinch-zoom: ;
-  --tw-scroll-snap-strictness: proximity;
-  --tw-gradient-from-position: ;
-  --tw-gradient-via-position: ;
-  --tw-gradient-to-position: ;
-  --tw-ordinal: ;
-  --tw-slashed-zero: ;
-  --tw-numeric-figure: ;
-  --tw-numeric-spacing: ;
-  --tw-numeric-fraction: ;
-  --tw-ring-inset: ;
-  --tw-ring-offset-width: 0px;
-  --tw-ring-offset-color: #fff;
-  --tw-ring-color: rgb(59 130 246 / 0.5);
-  --tw-ring-offset-shadow: 0 0 #0000;
-  --tw-ring-shadow: 0 0 #0000;
-  --tw-shadow: 0 0 #0000;
-  --tw-shadow-colored: 0 0 #0000;
-  --tw-blur: ;
-  --tw-brightness: ;
-  --tw-contrast: ;
-  --tw-grayscale: ;
-  --tw-hue-rotate: ;
-  --tw-invert: ;
-  --tw-saturate: ;
-  --tw-sepia: ;
-  --tw-drop-shadow: ;
-  --tw-backdrop-blur: ;
-  --tw-backdrop-brightness: ;
-  --tw-backdrop-contrast: ;
-  --tw-backdrop-grayscale: ;
-  --tw-backdrop-hue-rotate: ;
-  --tw-backdrop-invert: ;
-  --tw-backdrop-opacity: ;
-  --tw-backdrop-saturate: ;
-  --tw-backdrop-sepia: ;
+  --border-spacing-x: 0;
+  --border-spacing-y: 0;
+  --translate-x: 0;
+  --translate-y: 0;
+  --rotate: 0;
+  --skew-x: 0;
+  --skew-y: 0;
+  --scale-x: 1;
+  --scale-y: 1;
+  --pan-x: ;
+  --pan-y: ;
+  --pinch-zoom: ;
+  --scroll-snap-strictness: proximity;
+  --gradient-from-position: ;
+  --gradient-via-position: ;
+  --gradient-to-position: ;
+  --ordinal: ;
+  --slashed-zero: ;
+  --numeric-figure: ;
+  --numeric-spacing: ;
+  --numeric-fraction: ;
+  --ring-inset: ;
+  --ring-offset-width: 0px;
+  --ring-offset-color: #fff;
+  --ring-color: rgb(59 130 246 / 0.5);
+  --ring-offset-shadow: 0 0 #0000;
+  --ring-shadow: 0 0 #0000;
+  --shadow: 0 0 #0000;
+  --shadow-colored: 0 0 #0000;
+  --blur: ;
+  --brightness: ;
+  --contrast: ;
+  --grayscale: ;
+  --hue-rotate: ;
+  --invert: ;
+  --saturate: ;
+  --sepia: ;
+  --drop-shadow: ;
+  --backdrop-blur: ;
+  --backdrop-brightness: ;
+  --backdrop-contrast: ;
+  --backdrop-grayscale: ;
+  --backdrop-hue-rotate: ;
+  --backdrop-invert: ;
+  --backdrop-opacity: ;
+  --backdrop-saturate: ;
+  --backdrop-sepia: ;
 }
 
 
@@ -330,8 +330,8 @@ video {
   width: 100vw;
   align-items: center;
   justify-content: center;
-  --tw-bg-opacity: 1;
-  background-color: rgb(234 179 8 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(234 179 8 / var(--bg-opacity));
 }
 .innerContainer {
   display: flex;
@@ -350,8 +350,8 @@ video {
 }
 .navbar > li > a {
   font-size: 2rem;
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(255 255 255 / var(--text-opacity));
   transition-property: all;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-duration: 0.3s;
@@ -380,18 +380,18 @@ video {
   width: 3rem;
   align-items: center;
   justify-content: center;
-  --tw-bg-opacity: 1;
-  background-color: rgb(0 187 198 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(0 187 198 / var(--bg-opacity));
 }
 .search {
   height: 3rem;
   width: 20rem;
   border-style: none;
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 196 0 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(255 196 0 / var(--bg-opacity));
   padding: 0.75rem 1.25rem 0.25rem;
-  --tw-text-opacity: 1;
-  color: rgb(245 245 245 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(245 245 245 / var(--text-opacity));
   outline: 2px solid transparent;
   outline-offset: 2px;
 }
@@ -399,21 +399,21 @@ video {
   font-size: 1.125rem;
   line-height: 1.75rem;
   font-weight: 700;
-  --tw-text-opacity: 1;
-  color: rgb(245 245 245 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(245 245 245 / var(--text-opacity));
 }
 .search::placeholder {
   font-size: 1.125rem;
   line-height: 1.75rem;
   font-weight: 700;
-  --tw-text-opacity: 1;
-  color: rgb(245 245 245 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(245 245 245 / var(--text-opacity));
 }
 .ham {
   font-size: 1.875rem;
   line-height: 2.25rem;
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(255 255 255 / var(--text-opacity));
 }
 @media not all and (min-width: 1024px) {
   .ham {
@@ -428,8 +428,8 @@ video {
 .hamburger {
   font-size: 1.875rem;
   line-height: 2.25rem;
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(255 255 255 / var(--text-opacity));
 }
 .hero {
   display: flex;
@@ -437,8 +437,8 @@ video {
   width: 100vw;
   align-items: center;
   justify-content: center;
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 196 0 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(255 196 0 / var(--bg-opacity));
   padding-top: 15vh;
 }
 @media not all and (min-width: 1024px) {
@@ -488,8 +488,8 @@ video {
 .vete {
   font-size: 70px;
   font-weight: 700;
-  --tw-text-opacity: 1;
-  color: rgb(245 245 245 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(245 245 245 / var(--text-opacity));
 }
 @media not all and (min-width: 1024px) {
   .vete {
@@ -508,8 +508,8 @@ video {
   font-size: 1.875rem;
   line-height: 2.25rem;
   font-weight: 400;
-  --tw-text-opacity: 1;
-  color: rgb(245 245 245 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(245 245 245 / var(--text-opacity));
 }
 @media not all and (min-width: 1024px) {
   .lorem1 {
@@ -537,8 +537,8 @@ video {
   border-radius: 10%;
   padding: 0.75rem 1.25rem;
   font-size: 25px;
-  --tw-text-opacity: 1;
-  color: rgb(245 245 245 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(245 245 245 / var(--text-opacity));
 }
 @media not all and (min-width: 1024px) {
   .bttn {
@@ -553,29 +553,29 @@ video {
 .ServiceButton1 {
   border-width: 4px;
   border-style: solid;
-  --tw-border-opacity: 1;
-  border-color: rgb(245 245 245 / var(--tw-border-opacity));
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 196 0 / var(--tw-bg-opacity));
+  --border-opacity: 1;
+  border-color: rgb(245 245 245 / var(--border-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(255 196 0 / var(--bg-opacity));
   opacity: 1;
   transition-duration: 0.3s;
 }
 .ServiceButton1:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(223 171 2 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(223 171 2 / var(--bg-opacity));
   transition-duration: 0.3s;
 }
 .ContactButton1 {
   border-width: 4px;
   border-color: transparent;
-  --tw-bg-opacity: 1;
-  background-color: rgb(0 187 198 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(0 187 198 / var(--bg-opacity));
   opacity: 1;
   transition-duration: 0.3s;
 }
 .ContactButton1:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(0 163 176 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(0 163 176 / var(--bg-opacity));
   transition-duration: 0.3s;
 }
 .dogImage > img {
@@ -588,8 +588,8 @@ video {
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  --tw-bg-opacity: 1;
-  background-color: rgb(245 245 245 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(245 245 245 / var(--bg-opacity));
   padding-top: 2.5rem;
   padding-bottom: 5rem;
 }
@@ -656,19 +656,19 @@ video {
   overflow: hidden;
   border-radius: 10px;
   border-style: none;
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 196 0 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(255 196 0 / var(--bg-opacity));
   padding: 10px 20px;
   font-size: 20px;
-  --tw-text-opacity: 1;
-  color: rgb(245 245 245 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(245 245 245 / var(--text-opacity));
   outline: 2px solid transparent;
   outline-offset: 2px;
   transition-duration: 0.3s;
 }
 .ServiceButton2:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(192 147 0 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(192 147 0 / var(--bg-opacity));
   transition-duration: 0.3s;
 }
 .image2 {
@@ -687,11 +687,11 @@ video {
 }
 @media not all and (min-width: 1024px) {
   .image2 {
-    --tw-scale-x: 1.25;
-    --tw-scale-y: 1.25;
-    transform: translate(var(--tw-translate-x), var(--tw-translate-y))
-      rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y))
-      scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+    --scale-x: 1.25;
+    --scale-y: 1.25;
+    transform: translate(var(--translate-x), var(--translate-y))
+      rotate(var(--rotate)) skew(var(--skew-x)) skewY(var(--skew-y))
+      scaleX(var(--scale-x)) scaleY(var(--scale-y));
   }
 }
 .part3 {
@@ -701,8 +701,8 @@ video {
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 196 0 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(255 196 0 / var(--bg-opacity));
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
@@ -726,8 +726,8 @@ video {
 .vete3 {
   font-size: 70px;
   font-weight: 800;
-  --tw-text-opacity: 1;
-  color: rgb(245 245 245 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(245 245 245 / var(--text-opacity));
 }
 @media not all and (min-width: 1024px) {
   .vete3 {
@@ -749,8 +749,8 @@ video {
   padding-bottom: 30px;
   font-size: 35px;
   font-weight: 600;
-  --tw-text-opacity: 1;
-  color: rgb(245 245 245 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(245 245 245 / var(--text-opacity));
 }
 @media not all and (min-width: 1024px) {
   .lorem3 {
@@ -788,8 +788,8 @@ video {
 }
 .contentCard > p,
 .contentCard > h3 {
-  --tw-text-opacity: 1;
-  color: rgb(245 245 245 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(245 245 245 / var(--text-opacity));
 }
 .contentCard {
   margin: 1rem;
@@ -841,8 +841,8 @@ video {
   width: 100vw;
   align-items: center;
   justify-content: center;
-  --tw-bg-opacity: 1;
-  background-color: rgb(245 245 245 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(245 245 245 / var(--bg-opacity));
 }
 @media not all and (min-width: 1024px) {
   .part4 {
@@ -871,19 +871,19 @@ video {
   cursor: pointer;
   border-radius: 10px;
   border-style: none;
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 196 0 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(255 196 0 / var(--bg-opacity));
   padding: 10px 20px;
   font-size: 20px;
-  --tw-text-opacity: 1;
-  color: rgb(245 245 245 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(245 245 245 / var(--text-opacity));
   outline: 2px solid transparent;
   outline-offset: 2px;
   transition-duration: 0.3s;
 }
 .ServiceButton4:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(192 147 0 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(192 147 0 / var(--bg-opacity));
   transition-duration: 0.3s;
 }
 .image4 {
@@ -911,8 +911,8 @@ video {
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 196 0 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(255 196 0 / var(--bg-opacity));
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
@@ -953,8 +953,8 @@ video {
   width: 100%;
   align-items: center;
   justify-content: center;
-  --tw-bg-opacity: 1;
-  background-color: rgb(245 245 245 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(245 245 245 / var(--bg-opacity));
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
@@ -1028,17 +1028,17 @@ video {
   display: flex;
   height: 46px;
   width: 43px;
-  --tw-scale-x: 0.8;
-  --tw-scale-y: 0.8;
-  transform: translate(var(--tw-translate-x), var(--tw-translate-y))
-    rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y))
-    scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+  --scale-x: 0.8;
+  --scale-y: 0.8;
+  transform: translate(var(--translate-x), var(--translate-y))
+    rotate(var(--rotate)) skew(var(--skew-x)) skewY(var(--skew-y))
+    scaleX(var(--scale-x)) scaleY(var(--scale-y));
   align-items: center;
   justify-content: center;
   overflow: hidden;
   border-radius: 50%;
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 196 0 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(255 196 0 / var(--bg-opacity));
 }
 .part7 {
   display: flex;
@@ -1075,15 +1075,15 @@ video {
   text-align: center;
   font-size: 30px;
   font-weight: 400;
-  --tw-text-opacity: 1;
-  color: rgb(245 245 245 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(245 245 245 / var(--text-opacity));
 }
 .NumbersText {
   text-align: center;
   font-size: 30px;
   font-weight: 700;
-  --tw-text-opacity: 1;
-  color: rgb(245 245 245 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(245 245 245 / var(--text-opacity));
 }
 @media not all and (min-width: 1024px) {
   .card3P7 {
@@ -1103,8 +1103,8 @@ video {
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  --tw-bg-opacity: 1;
-  background-color: rgb(245 245 245 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(245 245 245 / var(--bg-opacity));
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
@@ -1166,16 +1166,16 @@ video {
   border-bottom-width: 4px;
   border-top-width: 0px;
   border-style: solid;
-  --tw-border-opacity: 1;
-  border-color: rgb(214 214 214 / var(--tw-border-opacity));
+  --border-opacity: 1;
+  border-color: rgb(214 214 214 / var(--border-opacity));
   padding: 2rem;
 }
 .postCard2 {
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--bg-opacity));
 }
 .CardsContentClass2 {
   z-index: 40;
@@ -1192,8 +1192,8 @@ video {
 .Just1 > p {
   overflow: hidden;
   font-weight: 500;
-  --tw-text-opacity: 1;
-  color: rgb(0 190 201 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(0 190 201 / var(--text-opacity));
 }
 .Just2 {
   display: flex;
@@ -1209,8 +1209,8 @@ video {
   overflow: hidden;
   font-size: large;
   font-weight: 500;
-  --tw-text-opacity: 1;
-  color: rgb(0 190 201 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(0 190 201 / var(--text-opacity));
 }
 .HeadingP8 {
   font-weight: 700;
@@ -1228,8 +1228,8 @@ video {
 }
 a {
   cursor: pointer;
-  --tw-text-opacity: 1;
-  color: rgb(245 245 245 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(245 245 245 / var(--text-opacity));
 }
 .footer {
   display: flex;
@@ -1237,8 +1237,8 @@ a {
   width: 100%;
   align-items: center;
   justify-content: center;
-  --tw-bg-opacity: 1;
-  background-color: rgb(48 49 48 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(48 49 48 / var(--bg-opacity));
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
@@ -1275,19 +1275,19 @@ a {
   padding-bottom: 20px;
   font-size: 37px;
   font-weight: 500;
-  --tw-text-opacity: 1;
-  color: rgb(245 245 245 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(245 245 245 / var(--text-opacity));
 }
 .AboutList,
 .ServiceList {
   font-size: 27px;
-  --tw-text-opacity: 1;
-  color: rgb(214 214 214 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(214 214 214 / var(--text-opacity));
 }
 .ContactContent {
   font-size: 23px;
-  --tw-text-opacity: 1;
-  color: rgb(214 214 214 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(214 214 214 / var(--text-opacity));
 }
 .Contact {
   margin-left: 6vw;
@@ -1305,41 +1305,41 @@ a {
   display: flex;
   height: 46px;
   width: 43px;
-  --tw-scale-x: 0.9;
-  --tw-scale-y: 0.9;
-  transform: translate(var(--tw-translate-x), var(--tw-translate-y))
-    rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y))
-    scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+  --scale-x: 0.9;
+  --scale-y: 0.9;
+  transform: translate(var(--translate-x), var(--translate-y))
+    rotate(var(--rotate)) skew(var(--skew-x)) skewY(var(--skew-y))
+    scaleX(var(--scale-x)) scaleY(var(--scale-y));
   align-items: center;
   justify-content: center;
   overflow: hidden;
   border-radius: 9999px;
-  --tw-bg-opacity: 1;
-  background-color: rgb(245 245 245 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(245 245 245 / var(--bg-opacity));
   padding-top: 6px;
 }
 .InputMail {
   border-style: none;
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 196 0 / var(--tw-bg-opacity));
+  --bg-opacity: 1;
+  background-color: rgb(255 196 0 / var(--bg-opacity));
   padding-left: 10px;
   padding-bottom: 0;
   font-size: 18px;
   font-weight: 500;
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(255 255 255 / var(--text-opacity));
   outline: 2px solid transparent;
   outline-offset: 2px;
 }
 .InputMail::-moz-placeholder {
   font-size: 18px;
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(255 255 255 / var(--text-opacity));
 }
 .InputMail::placeholder {
   font-size: 18px;
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
+  --text-opacity: 1;
+  color: rgb(255 255 255 / var(--text-opacity));
 }
 @media not all and (min-width: 768px) {
   .MailIt {
