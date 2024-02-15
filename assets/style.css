@@ -1,6 +1,6 @@
 @import "https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap";
 
-[hidden] {
+.hidden {
   display: none;
 }
 
@@ -18,8 +18,7 @@
   width: 100vw;
   align-items: center;
   justify-content: center;
-  --bg-opacity: 1;
-  background-color: rgb(234 179 8 / var(--bg-opacity));
+  background-color: rgb(234 179 8 / 1);
 }
 .innerContainer {
   display: flex;
@@ -34,8 +33,7 @@
 
 .navbar > li > a {
   font-size: 2rem;
-  --text-opacity: 1;
-  color: rgb(255 255 255 / var(--text-opacity));
+  color: rgb(255 255 255 / 1);
   transition-property: all;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-duration: 0.3s;
@@ -56,18 +54,15 @@
   width: 3rem;
   align-items: center;
   justify-content: center;
-  --bg-opacity: 1;
-  background-color: rgb(0 187 198 / var(--bg-opacity));
+  background-color: rgb(0 187 198 / 1);
 }
 .search {
   height: 3rem;
   width: 20rem;
   border-style: none;
-  --bg-opacity: 1;
-  background-color: rgb(255 196 0 / var(--bg-opacity));
+  background-color: rgb(255 196 0 / 1);
   padding: 0.75rem 1.25rem 0.25rem;
-  --text-opacity: 1;
-  color: rgb(245 245 245 / var(--text-opacity));
+  color: rgb(245 245 245 / 1);
   outline: 2px solid transparent;
   outline-offset: 2px;
 }
@@ -75,28 +70,24 @@
   font-size: 1.125rem;
   line-height: 1.75rem;
   font-weight: 700;
-  --text-opacity: 1;
-  color: rgb(245 245 245 / var(--text-opacity));
+  color: rgb(245 245 245 / 1);
 }
 .search::placeholder {
   font-size: 1.125rem;
   line-height: 1.75rem;
   font-weight: 700;
-  --text-opacity: 1;
-  color: rgb(245 245 245 / var(--text-opacity));
+  color: rgb(245 245 245 /1);
 }
 .ham {
   font-size: 1.875rem;
   line-height: 2.25rem;
-  --text-opacity: 1;
-  color: rgb(255 255 255 / var(--text-opacity));
+  color: rgb(255 255 255 / 1);
 }
 
 .hamburger {
   font-size: 1.875rem;
   line-height: 2.25rem;
-  --text-opacity: 1;
-  color: rgb(255 255 255 / var(--text-opacity));
+  color: rgb(255 255 255 / 1);
 }
 .hero {
   display: flex;
@@ -104,8 +95,7 @@
   width: 100vw;
   align-items: center;
   justify-content: center;
-  --bg-opacity: 1;
-  background-color: rgb(255 196 0 / var(--bg-opacity));
+  background-color: rgb(255 196 0 / 1);
   padding-top: 15vh;
 }
 
@@ -129,8 +119,7 @@
 .vete {
   font-size: 70px;
   font-weight: 700;
-  --text-opacity: 1;
-  color: rgb(245 245 245 / var(--text-opacity));
+  color: rgb(245 245 245 / 1);
 }
 
 .lorem1 {
@@ -139,8 +128,7 @@
   font-size: 1.875rem;
   line-height: 2.25rem;
   font-weight: 400;
-  --text-opacity: 1;
-  color: rgb(245 245 245 / var(--text-opacity));
+  color: rgb(245 245 245 / 1);
 }
 
 .buttonsHero {
@@ -157,36 +145,31 @@
   border-radius: 10%;
   padding: 0.75rem 1.25rem;
   font-size: 25px;
-  --text-opacity: 1;
-  color: rgb(245 245 245 / var(--text-opacity));
+  color: rgb(245 245 245 / 1);
 }
 
 .ServiceButton1 {
   border-width: 4px;
   border-style: solid;
-  --border-opacity: 1;
-  border-color: rgb(245 245 245 / var(--border-opacity));
-  --bg-opacity: 1;
-  background-color: rgb(255 196 0 / var(--bg-opacity));
+  border-color: rgb(245 245 245 / 1);
+  background-color: rgb(255 196 0 / 1);
   opacity: 1;
   transition-duration: 0.3s;
 }
 .ServiceButton1:hover {
-  --bg-opacity: 1;
-  background-color: rgb(223 171 2 / var(--bg-opacity));
+  background-color: rgb(223 171 2 / 1);
   transition-duration: 0.3s;
 }
 .ContactButton1 {
   border-width: 4px;
   border-color: transparent;
-  --bg-opacity: 1;
-  background-color: rgb(0 187 198 / var(--bg-opacity));
+  background-color: rgb(0 187 198 / 1);
   opacity: 1;
   transition-duration: 0.3s;
 }
 .ContactButton1:hover {
-  --bg-opacity: 1;
-  background-color: rgb(0 163 176 / var(--bg-opacity));
+   
+  background-color: rgb(0 163 176 /  1);
   transition-duration: 0.3s;
 }
 .dogImage > img {
@@ -199,8 +182,8 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  --bg-opacity: 1;
-  background-color: rgb(245 245 245 / var(--bg-opacity));
+   
+  background-color: rgb(245 245 245 /  1);
   padding-top: 2.5rem;
   padding-bottom: 5rem;
 }
@@ -242,19 +225,19 @@
   overflow: hidden;
   border-radius: 10px;
   border-style: none;
-  --bg-opacity: 1;
-  background-color: rgb(255 196 0 / var(--bg-opacity));
+   
+  background-color: rgb(255 196 0 /  1);
   padding: 10px 20px;
   font-size: 20px;
-  --text-opacity: 1;
-  color: rgb(245 245 245 / var(--text-opacity));
+    
+  color: rgb(245 245 245 /  1);
   outline: 2px solid transparent;
   outline-offset: 2px;
   transition-duration: 0.3s;
 }
 .ServiceButton2:hover {
-  --bg-opacity: 1;
-  background-color: rgb(192 147 0 / var(--bg-opacity));
+   
+  background-color: rgb(192 147 0 /  1);
   transition-duration: 0.3s;
 }
 .image2 {
@@ -279,8 +262,8 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  --bg-opacity: 1;
-  background-color: rgb(255 196 0 / var(--bg-opacity));
+   
+  background-color: rgb(255 196 0 /  1);
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
@@ -295,8 +278,8 @@
 .vete3 {
   font-size: 70px;
   font-weight: 800;
-  --text-opacity: 1;
-  color: rgb(245 245 245 / var(--text-opacity));
+    
+  color: rgb(245 245 245 /  1);
 }
 
 .lorem3 {
@@ -304,8 +287,8 @@
   padding-bottom: 30px;
   font-size: 35px;
   font-weight: 600;
-  --text-opacity: 1;
-  color: rgb(245 245 245 / var(--text-opacity));
+    
+  color: rgb(245 245 245 /  1);
 }
 
 .imageCard {
@@ -320,8 +303,8 @@
 
 .contentCard > p,
 .contentCard > h3 {
-  --text-opacity: 1;
-  color: rgb(245 245 245 / var(--text-opacity));
+    
+  color: rgb(245 245 245 /  1);
 }
 .contentCard {
   margin: 1rem;
@@ -345,8 +328,8 @@
   width: 100vw;
   align-items: center;
   justify-content: center;
-  --bg-opacity: 1;
-  background-color: rgb(245 245 245 / var(--bg-opacity));
+   
+  background-color: rgb(245 245 245 /  1);
 }
 
 .content4 {
@@ -365,19 +348,18 @@
   cursor: pointer;
   border-radius: 10px;
   border-style: none;
-  --bg-opacity: 1;
-  background-color: rgb(255 196 0 / var(--bg-opacity));
+  background-color: rgb(255 196 0 /  1);
   padding: 10px 20px;
   font-size: 20px;
-  --text-opacity: 1;
-  color: rgb(245 245 245 / var(--text-opacity));
+    
+  color: rgb(245 245 245 /  1);
   outline: 2px solid transparent;
   outline-offset: 2px;
   transition-duration: 0.3s;
 }
 .ServiceButton4:hover {
-  --bg-opacity: 1;
-  background-color: rgb(192 147 0 / var(--bg-opacity));
+   
+  background-color: rgb(192 147 0 /  1);
   transition-duration: 0.3s;
 }
 .image4 {
@@ -401,8 +383,8 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  --bg-opacity: 1;
-  background-color: rgb(255 196 0 / var(--bg-opacity));
+   
+  background-color: rgb(255 196 0 /  1);
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
@@ -434,8 +416,8 @@
   width: 100%;
   align-items: center;
   justify-content: center;
-  --bg-opacity: 1;
-  background-color: rgb(245 245 245 / var(--bg-opacity));
+   
+  background-color: rgb(245 245 245 /  1);
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
@@ -490,17 +472,13 @@
   display: flex;
   height: 46px;
   width: 43px;
-  --scale-x: 0.8;
-  --scale-y: 0.8;
-  transform: translate(var(--translate-x), var(--translate-y))
-    rotate(var(--rotate)) skew(var(--skew-x)) skewY(var(--skew-y))
-    scaleX(var(--scale-x)) scaleY(var(--scale-y));
+ scale: 0.8;
   align-items: center;
   justify-content: center;
   overflow: hidden;
   border-radius: 50%;
-  --bg-opacity: 1;
-  background-color: rgb(255 196 0 / var(--bg-opacity));
+   
+  background-color: rgb(255 196 0 /  1);
 }
 .part7 {
   display: flex;
@@ -537,15 +515,15 @@
   text-align: center;
   font-size: 30px;
   font-weight: 400;
-  --text-opacity: 1;
-  color: rgb(245 245 245 / var(--text-opacity));
+    
+  color: rgb(245 245 245 /  1);
 }
 .NumbersText {
   text-align: center;
   font-size: 30px;
   font-weight: 700;
-  --text-opacity: 1;
-  color: rgb(245 245 245 / var(--text-opacity));
+    
+  color: rgb(245 245 245 /  1);
 }
 
 .part8 {
@@ -555,8 +533,8 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  --bg-opacity: 1;
-  background-color: rgb(245 245 245 / var(--bg-opacity));
+   
+  background-color: rgb(245 245 245 /  1);
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
@@ -605,16 +583,16 @@
   border-bottom-width: 4px;
   border-top-width: 0px;
   border-style: solid;
-  --border-opacity: 1;
-  border-color: rgb(214 214 214 / var(--border-opacity));
+   
+  border-color: rgb(214 214 214 /1);
   padding: 2rem;
 }
 .postCard2 {
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  --bg-opacity: 1;
-  background-color: rgb(255 255 255 / var(--bg-opacity));
+   
+  background-color: rgb(255 255 255 /  1);
 }
 .CardsContentClass2 {
   z-index: 40;
@@ -631,8 +609,8 @@
 .Just1 > p {
   overflow: hidden;
   font-weight: 500;
-  --text-opacity: 1;
-  color: rgb(0 190 201 / var(--text-opacity));
+    
+  color: rgb(0 190 201 /  1);
 }
 .Just2 {
   display: flex;
@@ -648,8 +626,8 @@
   overflow: hidden;
   font-size: large;
   font-weight: 500;
-  --text-opacity: 1;
-  color: rgb(0 190 201 / var(--text-opacity));
+    
+  color: rgb(0 190 201 /  1);
 }
 .HeadingP8 {
   font-weight: 700;
@@ -657,8 +635,8 @@
 
 a {
   cursor: pointer;
-  --text-opacity: 1;
-  color: rgb(245 245 245 / var(--text-opacity));
+    
+  color: rgb(245 245 245 /  1);
 }
 .footer {
   display: flex;
@@ -666,8 +644,8 @@ a {
   width: 100%;
   align-items: center;
   justify-content: center;
-  --bg-opacity: 1;
-  background-color: rgb(48 49 48 / var(--bg-opacity));
+   
+  background-color: rgb(48 49 48 /  1);
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
@@ -695,19 +673,19 @@ a {
   padding-bottom: 20px;
   font-size: 37px;
   font-weight: 500;
-  --text-opacity: 1;
-  color: rgb(245 245 245 / var(--text-opacity));
+    
+  color: rgb(245 245 245 /  1);
 }
 .AboutList,
 .ServiceList {
   font-size: 27px;
-  --text-opacity: 1;
-  color: rgb(214 214 214 / var(--text-opacity));
+    
+  color: rgb(214 214 214 /  1);
 }
 .ContactContent {
   font-size: 23px;
-  --text-opacity: 1;
-  color: rgb(214 214 214 / var(--text-opacity));
+    
+  color: rgb(214 214 214 /  1);
 }
 .Contact {
   margin-left: 6vw;
@@ -725,41 +703,37 @@ a {
   display: flex;
   height: 46px;
   width: 43px;
-  --scale-x: 0.9;
-  --scale-y: 0.9;
-  transform: translate(var(--translate-x), var(--translate-y))
-    rotate(var(--rotate)) skew(var(--skew-x)) skewY(var(--skew-y))
-    scaleX(var(--scale-x)) scaleY(var(--scale-y));
+  scale: 0.9;
   align-items: center;
   justify-content: center;
   overflow: hidden;
   border-radius: 9999px;
-  --bg-opacity: 1;
-  background-color: rgb(245 245 245 / var(--bg-opacity));
+   
+  background-color: rgb(245 245 245 /  1);
   padding-top: 6px;
 }
 .InputMail {
   border-style: none;
-  --bg-opacity: 1;
-  background-color: rgb(255 196 0 / var(--bg-opacity));
+   
+  background-color: rgb(255 196 0 /  1);
   padding-left: 10px;
   padding-bottom: 0;
   font-size: 18px;
   font-weight: 500;
-  --text-opacity: 1;
-  color: rgb(255 255 255 / var(--text-opacity));
+    
+  color: rgb(255 255 255 /  1);
   outline: 2px solid transparent;
   outline-offset: 2px;
 }
 .InputMail::-moz-placeholder {
   font-size: 18px;
-  --text-opacity: 1;
-  color: rgb(255 255 255 / var(--text-opacity));
+    
+  color: rgb(255 255 255 /  1);
 }
 .InputMail::placeholder {
   font-size: 18px;
-  --text-opacity: 1;
-  color: rgb(255 255 255 / var(--text-opacity));
+    
+  color: rgb(255 255 255 /  1);
 }
 
 * {
@@ -891,9 +865,6 @@ a {
   }
   .image2 {
     scale: 1.25;
-    transform: translate(var(--translate-x), var(--translate-y))
-      rotate(var(--rotate)) skew(var(--skew-x)) skewY(var(--skew-y))
-      scaleX(var(--scale-x)) scaleY(var(--scale-y));
   }
 
   /* Part 3 Section */
