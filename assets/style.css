@@ -168,8 +168,7 @@
   transition-duration: 0.3s;
 }
 .ContactButton1:hover {
-   
-  background-color: rgb(0 163 176 /  1);
+  background-color: rgb(0 163 176 / 1);
   transition-duration: 0.3s;
 }
 .dogImage > img {
@@ -182,8 +181,8 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
-   
-  background-color: rgb(245 245 245 /  1);
+
+  background-color: rgb(245 245 245 / 1);
   padding-top: 2.5rem;
   padding-bottom: 5rem;
 }
@@ -225,19 +224,18 @@
   overflow: hidden;
   border-radius: 10px;
   border-style: none;
-   
-  background-color: rgb(255 196 0 /  1);
+
+  background-color: rgb(255 196 0 / 1);
   padding: 10px 20px;
   font-size: 20px;
-    
-  color: rgb(245 245 245 /  1);
+
+  color: rgb(245 245 245 / 1);
   outline: 2px solid transparent;
   outline-offset: 2px;
   transition-duration: 0.3s;
 }
 .ServiceButton2:hover {
-   
-  background-color: rgb(192 147 0 /  1);
+  background-color: rgb(192 147 0 / 1);
   transition-duration: 0.3s;
 }
 .image2 {
@@ -262,8 +260,8 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
-   
-  background-color: rgb(255 196 0 /  1);
+
+  background-color: rgb(255 196 0 / 1);
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
@@ -278,8 +276,8 @@
 .vete3 {
   font-size: 70px;
   font-weight: 800;
-    
-  color: rgb(245 245 245 /  1);
+
+  color: rgb(245 245 245 / 1);
 }
 
 .lorem3 {
@@ -287,8 +285,8 @@
   padding-bottom: 30px;
   font-size: 35px;
   font-weight: 600;
-    
-  color: rgb(245 245 245 /  1);
+
+  color: rgb(245 245 245 / 1);
 }
 
 .imageCard {
@@ -303,8 +301,7 @@
 
 .contentCard > p,
 .contentCard > h3 {
-    
-  color: rgb(245 245 245 /  1);
+  color: rgb(245 245 245 / 1);
 }
 .contentCard {
   margin: 1rem;
@@ -328,8 +325,8 @@
   width: 100vw;
   align-items: center;
   justify-content: center;
-   
-  background-color: rgb(245 245 245 /  1);
+
+  background-color: rgb(245 245 245 / 1);
 }
 
 .content4 {
@@ -348,18 +345,17 @@
   cursor: pointer;
   border-radius: 10px;
   border-style: none;
-  background-color: rgb(255 196 0 /  1);
+  background-color: rgb(255 196 0 / 1);
   padding: 10px 20px;
   font-size: 20px;
-    
-  color: rgb(245 245 245 /  1);
+
+  color: rgb(245 245 245 / 1);
   outline: 2px solid transparent;
   outline-offset: 2px;
   transition-duration: 0.3s;
 }
 .ServiceButton4:hover {
-   
-  background-color: rgb(192 147 0 /  1);
+  background-color: rgb(192 147 0 / 1);
   transition-duration: 0.3s;
 }
 .image4 {
@@ -383,8 +379,8 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
-   
-  background-color: rgb(255 196 0 /  1);
+
+  background-color: rgb(255 196 0 / 1);
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
@@ -412,12 +408,12 @@
 }
 .part6 {
   display: flex;
-  height: 100vh;
+  /* height: 100vh; */
   width: 100%;
   align-items: center;
   justify-content: center;
-   
-  background-color: rgb(245 245 245 /  1);
+
+  background-color: rgb(245 245 245 / 1);
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
@@ -472,13 +468,13 @@
   display: flex;
   height: 46px;
   width: 43px;
- scale: 0.8;
+  scale: 0.8;
   align-items: center;
   justify-content: center;
   overflow: hidden;
   border-radius: 50%;
-   
-  background-color: rgb(255 196 0 /  1);
+
+  background-color: rgb(255 196 0 / 1);
 }
 .part7 {
   display: flex;
@@ -515,26 +511,26 @@
   text-align: center;
   font-size: 30px;
   font-weight: 400;
-    
-  color: rgb(245 245 245 /  1);
+
+  color: rgb(245 245 245 / 1);
 }
 .NumbersText {
   text-align: center;
   font-size: 30px;
   font-weight: 700;
-    
-  color: rgb(245 245 245 /  1);
+
+  color: rgb(245 245 245 / 1);
 }
 
 .part8 {
   display: flex;
-  height: 140vh;
+  /* height: 140vh; */
   width: 100%;
   align-items: center;
   justify-content: center;
   overflow: hidden;
-   
-  background-color: rgb(245 245 245 /  1);
+
+  background-color: rgb(245 245 245 / 1);
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
@@ -583,7 +579,7 @@
   border-bottom-width: 4px;
   border-top-width: 0px;
   border-style: solid;
-   
+
   border-color: rgb(214 214 214 /1);
   padding: 2rem;
 }
@@ -591,8 +587,8 @@
   display: flex;
   flex-direction: column;
   overflow: hidden;
-   
-  background-color: rgb(255 255 255 /  1);
+
+  background-color: rgb(255 255 255 / 1);
 }
 .CardsContentClass2 {
   z-index: 40;
@@ -609,8 +605,8 @@
 .Just1 > p {
   overflow: hidden;
   font-weight: 500;
-    
-  color: rgb(0 190 201 /  1);
+
+  color: rgb(0 190 201 / 1);
 }
 .Just2 {
   display: flex;
@@ -626,8 +622,8 @@
   overflow: hidden;
   font-size: large;
   font-weight: 500;
-    
-  color: rgb(0 190 201 /  1);
+
+  color: rgb(0 190 201 / 1);
 }
 .HeadingP8 {
   font-weight: 700;
@@ -635,8 +631,8 @@
 
 a {
   cursor: pointer;
-    
-  color: rgb(245 245 245 /  1);
+
+  color: rgb(245 245 245 / 1);
 }
 .footer {
   display: flex;
@@ -644,8 +640,8 @@ a {
   width: 100%;
   align-items: center;
   justify-content: center;
-   
-  background-color: rgb(48 49 48 /  1);
+
+  background-color: rgb(48 49 48 / 1);
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
@@ -673,19 +669,19 @@ a {
   padding-bottom: 20px;
   font-size: 37px;
   font-weight: 500;
-    
-  color: rgb(245 245 245 /  1);
+
+  color: rgb(245 245 245 / 1);
 }
 .AboutList,
 .ServiceList {
   font-size: 27px;
-    
-  color: rgb(214 214 214 /  1);
+
+  color: rgb(214 214 214 / 1);
 }
 .ContactContent {
   font-size: 23px;
-    
-  color: rgb(214 214 214 /  1);
+
+  color: rgb(214 214 214 / 1);
 }
 .Contact {
   margin-left: 6vw;
@@ -708,32 +704,32 @@ a {
   justify-content: center;
   overflow: hidden;
   border-radius: 9999px;
-   
-  background-color: rgb(245 245 245 /  1);
+
+  background-color: rgb(245 245 245 / 1);
   padding-top: 6px;
 }
 .InputMail {
   border-style: none;
-   
-  background-color: rgb(255 196 0 /  1);
+
+  background-color: rgb(255 196 0 / 1);
   padding-left: 10px;
   padding-bottom: 0;
   font-size: 18px;
   font-weight: 500;
-    
-  color: rgb(255 255 255 /  1);
+
+  color: rgb(255 255 255 / 1);
   outline: 2px solid transparent;
   outline-offset: 2px;
 }
 .InputMail::-moz-placeholder {
   font-size: 18px;
-    
-  color: rgb(255 255 255 /  1);
+
+  color: rgb(255 255 255 / 1);
 }
 .InputMail::placeholder {
   font-size: 18px;
-    
-  color: rgb(255 255 255 /  1);
+
+  color: rgb(255 255 255 / 1);
 }
 
 * {
@@ -790,12 +786,14 @@ a {
   text-decoration: none;
 }
 
-.ham{
+.ham {
   display: none;
-
 }
 
 @media not all and (min-width: 1024px) {
+  .card1P7 {
+    display: none;
+  }
   /* Navbar and Search Bar */
   .navbar > li > a {
     display: none;
@@ -929,6 +927,9 @@ a {
   }
 }
 @media not all and (min-width: 768px) {
+  .card3P7 {
+    display: none;
+  }
   /* Dog Image in Hero Section */
   .dogImage {
     padding-top: 4rem;
@@ -938,12 +939,16 @@ a {
   .vete {
     font-size: 50px;
   }
+  .part3 {
+    height: 200vh;
+  }
+
   .bttn {
     font-size: 15px;
   }
   /* Part 2 Section Height */
   .part2 {
-    height: 220vh;
+    height: 130vh;
   }
   /* Font Sizes in Part 3 Section */
   .vete3 {
@@ -961,7 +966,7 @@ a {
   }
   /* Part 5 Section Height */
   .part5 {
-    height: 205vh;
+    height: 210vh;
   }
   /* Part 6 Section Height */
   .part6 {
@@ -987,11 +992,26 @@ a {
   .CardsP8 {
     grid-template-columns: repeat(1, minmax(0, 1fr));
   }
+  .ServiceCards {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
 }
 @media not all and (min-width: 640px) {
+  .card3P7 {
+    display: none;
+  }
   /* Font Sizes in Part 3 Section */
+  .ServiceCards {
+    flex-direction: column;
+  }
+  .part5 {
+    height: 250vh;
+  }
   .vete3 {
     font-size: 55px;
+  }
+  .part3 {
+    height: 200vh;
   }
   .lorem3 {
     font-size: 20px;
@@ -1002,5 +1022,8 @@ a {
   }
   .contentCard > h3 {
     font-size: 20px;
+  }
+  .ServiceCards {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
   }
 }
